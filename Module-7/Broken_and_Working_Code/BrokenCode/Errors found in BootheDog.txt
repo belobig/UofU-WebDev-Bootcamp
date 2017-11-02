@@ -1,0 +1,13 @@
+Errors found in BootheDog.html
+1. Corrected Indentation on divs throughout the page
+2. Added h1 tags to main header
+3. Removed Instructions element
+4. Added <p> tags to separate text in About Boo element into paragraphs
+5. Copied wikipedia link text into actual href section to make the link work
+6. Added missing angle brackets "<>" before and after image link
+7. Corrected order of last 4 elements on the page
+8. Added <li> and </li> tags to the list items of the ordered list  of Boo's favorite things
+9. Corrected name of .js script in bottom of BooTheDog.html from errors.js to logic.js
+10. Added "" to each item in the booFacts array in logic.js
+11. Corrected button ID names to show correct colors
+12. Added "" to click for boxGrow and boxShrink functions in logic.js
